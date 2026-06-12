@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/8ac0eb7c-44f9-4698-bd40-732099809f3f
+
 # **Sudan Humanitarian Analytics Dashboard**
 
 ![Home page](/sudan-dashboard-portfolio/screenshots/001_home.PNG)
@@ -8,10 +12,7 @@
 ---
 
 ## **Demo video**
-<video controls width="720">
-  <source src="https://raw.githubusercontent.com/Ahmed84Elhassan/sudan-dashboard-portfolio/main/demo-video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/31c92aaa-234b-44ef-9736-210ff9a36d28
 
 *Short walkthrough showing navigation, slicers, bookmarks, and interactive exploration of the report.*
 
