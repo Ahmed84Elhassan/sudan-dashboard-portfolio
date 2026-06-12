@@ -9,7 +9,7 @@
 
 ## **Demo video**
 <video controls width="720">
-  <source src="https://raw.githubusercontent.com/Mustafa86Safsaf/sudan-dashboard-portfolio/main/demo-video.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/Ahmed84Elhassan/sudan-dashboard-portfolio/main/demo-video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
