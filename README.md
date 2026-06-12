@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/8ac0eb7c-44f9-4698-bd40-732099809f3f
-
 # **Sudan Humanitarian Analytics Dashboard**
 
 ![Home page](/sudan-dashboard-portfolio/screenshots/001_home.PNG)
