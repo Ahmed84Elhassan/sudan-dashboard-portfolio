@@ -8,7 +8,10 @@
 ---
 
 ## **Demo video**
-**File:** `demo-video.mp4`  
+<video controls width="720">
+  <source src="https://raw.githubusercontent.com/Ahmed84Elhassan/sudan-dashboard-portfolio/main/demo-video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>  
 *Short walkthrough showing navigation, slicers, bookmarks, and interactive exploration of the report.*
 
 ---
