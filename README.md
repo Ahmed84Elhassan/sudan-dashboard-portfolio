@@ -1,4 +1,4 @@
-# **Sudan Humanitarian Analytics Dashboard
+# **Sudan Humanitarian Analytics Dashboard**
 
 ![Home page](/sudan-dashboard-portfolio/screenshots/001_home.PNG)
 
