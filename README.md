@@ -180,7 +180,7 @@ The Detail page is a parameterized view built with bookmarks. The default screen
 - `screenshots/` — 7 images named in this README.  
 ---
 
-## **Author**
-**Author:** [Ahmed Elhassan]    
+## **Author and contact**
+**Author:** [Ahmed Elhassan]  
  **Contact:** [ahmed_elhassan84@hotmail.com]
 **Last updated:** [12-June-2026]
