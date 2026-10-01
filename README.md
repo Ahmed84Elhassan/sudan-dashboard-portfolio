@@ -1,15 +1,12 @@
 # **Sudan Humanitarian Analytics Dashboard**
 
-An interactive dashboard that highlights where violence, displacement, and market stress overlap in Sudan.  
-Explore the demo, visuals, and technical notes below:
+An interactive Power BI dashboard linking conflict events, displacement, market prices, demographics, and GDP to highlight where violence, displacement, and market stress overlap across Sudan. Explore the demo walkthrough, visual page layouts, and technical documentation below:
 
 ---
 
 
 ![Home page](/sudan-dashboard-portfolio/screenshots/001_home.PNG)
 
-**One-line summary**  
-*Interactive Power BI dashboard linking conflict events, displacement, market prices, demographics, and GDP to show where violence, displacement, and market stress intersect across Sudan.*
 
 ---
 
