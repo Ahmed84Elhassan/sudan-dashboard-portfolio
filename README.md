@@ -1,12 +1,3 @@
-<style>
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important; max-width: 800px; margin: 0 auto; padding: 16px; line-height: 1.6; color: #333333; }
-    h1, h2, h3 { font-weight: 700; color: #1a252f; margin-top: 24px; margin-bottom: 12px; }
-    li { font-size: 15px !important; margin-bottom: 8px; font-weight: normal !important; line-height: 1.5; color: #444444; }
-    li strong { font-weight: 600; font-size: 16px; color: #222222; }
-    img { max-width: 100%; height: auto; border-radius: 8px; margin: 16px 0; border: 1px solid #e1e4e8; }
-</style>
-
-
 # **Sudan Humanitarian Analytics Dashboard**
 
 An interactive Power BI dashboard linking conflict events, displacement, market prices, demographics, and GDP to highlight where violence, displacement, and market stress overlap across Sudan. Explore the demo walkthrough, visual page layouts, and technical documentation below:
@@ -20,8 +11,8 @@ An interactive Power BI dashboard linking conflict events, displacement, market 
 ---
 
 ## **Demo video**
-<video controls playsinline width="100%" preload="metadata" style="max-width:100%; border-radius:8px; display:block; margin:15px 0; box-shadow:0 4px 10px rgba(0,0,0,0.08);">
-    <source src="https://github.com" type="video/mp4">
+<video controls playsinline width="100%" style="max-width:100%; border-radius:8px; display:block; margin:15px 0; box-shadow:0 4px 10px rgba(0,0,0,0.08);">
+    <source src="demo-video.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
