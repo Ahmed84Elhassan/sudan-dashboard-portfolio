@@ -5,7 +5,6 @@ Explore the demo, visuals, and technical notes below:
 
 ---
 
-# **Sudan Humanitarian Analytics Dashboard**
 
 ![Home page](/sudan-dashboard-portfolio/screenshots/001_home.PNG)
 
