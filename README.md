@@ -11,10 +11,7 @@ An interactive Power BI dashboard linking conflict events, displacement, market 
 ---
 
 ## **Demo video**
-<video controls playsinline width="100%" style="max-width:100%; border-radius:8px; display:block; margin:15px 0; box-shadow:0 4px 10px rgba(0,0,0,0.08);">
-    <source src="https://github.com/user-attachments/assets/31c92aaa-234b-44ef-9736-210ff9a36d28" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+![Demo video](https://github.com/user-attachments/assets/31c92aaa-234b-44ef-9736-210ff9a36d28)
 
 *Short walkthrough showing navigation, slicers, bookmarks, and interactive exploration of the report.*
 
