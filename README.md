@@ -4,12 +4,6 @@ An interactive Power BI dashboard linking conflict events, displacement, market 
 
 ---
 
-
-![Home page](/sudan-dashboard-portfolio/screenshots/001_home.PNG)
-
-
----
-
 ## **Demo video**
 
 <video src="demo-video.mp4" controls playsinline width="100%"></video>
@@ -181,10 +175,10 @@ The Detail page is a parameterized view built with bookmarks. The default screen
 ## **Files included**
 - `README.md` — this file.    
 - `demo-video.mp4` — short walkthrough recorded with OBS.  
-- `screenshots/` — 7 images named in this README.  
+- `screenshots/` — 7 images named in this README.   
 ---
 
 ## **Author and contact**
 **Author:** Ahmed Elhassan    
  **Contact:** ahmed_elhassan84@hotmail.com      
-**Last updated:** 12-June-2026
+**Last updated:** 02-October-2026
