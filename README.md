@@ -4,7 +4,8 @@ An interactive Power BI dashboard linking conflict events, displacement, market 
 
 ---
 
-<video src="https://github.com" autoplay loop muted playsinline width="100%"></video>
+## **Demo Walkthrough**
+![Walkthrough Video](https://github.com)
 
 *A 45-second interactive walkthrough showing dynamic navigation, slicers, bookmarks, and cross-filtering analytics.*
 
