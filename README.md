@@ -31,7 +31,7 @@ This repository is a **portfolio demonstration**. The visuals show methods, data
 
 **Caption:** *Overview: headline KPIs and a switchable trend for national framing.*  
 
-**What this page shows (2–3 sentences)**  
+**What this page shows**  
 The Home page presents the headline metrics: **People in Need**, **Internally Displaced**, **People Facing Acute Food Insecurity**, and **2025 GDP**. 
 
 A central interactive map highlights the geographic location of humanitarian hotspots across the region to illustrate current needs and reach. Use this page to get a quick, high-level sense of the crisis scale and to visualize the areas requiring the most critical assistance.
@@ -49,7 +49,7 @@ A central interactive map highlights the geographic location of humanitarian hot
 
 **Caption:** *Conflict: state-level intensity and top states by event counts.*  
 
-**What this page shows (2–3 sentences)**  
+**What this page shows**  
 A map highlights conflict intensity by state and a ranked bar chart lists the top states by event counts. KPI cards summarize event totals and fatalities for the selected period. This page helps identify geographic hotspots and the scale of violence driving humanitarian needs.
 
 **Key visuals explained**  
@@ -65,7 +65,7 @@ A map highlights conflict intensity by state and a ranked bar chart lists the to
 
 **Caption:** *Displacement: IDP stocks by state and origin→destination flows.*  
 
-**What this page shows (2–3 sentences)**  
+**What this page shows**  
 State-level IDP stocks are shown on a map and a Sankey flow diagram shows origin→destination movement between states. Cards summarize total IDPs, returnees, and vulnerable subgroups (children, women). Use this page to understand who is displaced, where they are, and the main movement corridors.
 
 **Key visuals explained**  
@@ -81,7 +81,7 @@ State-level IDP stocks are shown on a map and a Sankey flow diagram shows origin
 
 **Caption:** *Food Security: market price trends and annual sorghum price volatility.*  
 
-**What this page shows (2–3 sentences)**  
+**What this page shows**  
 Small multiples show market price trends across key markets and a larger chart shows year‑on‑year volatility for sorghum (a staple). Cards highlight the number of people in emergency and catastrophe and the percent above 5‑year average for key staples. This page links market stress to conflict and displacement patterns.
 
 **Key visuals explained**  
@@ -97,7 +97,7 @@ Small multiples show market price trends across key markets and a larger chart s
 
 **Caption:** *Demographics: population pyramid and age-group distribution by state.*  
 
-**What this page shows (2–3 sentences)**  
+**What this page shows**  
 A population pyramid shows age and sex structure; stacked bars compare age groups across states. Cards show total population, growth rate, median age, and dependency ratio. This page highlights vulnerability shaped by a young population and regional differences in child share.
 
 **Key visuals explained**  
@@ -113,7 +113,7 @@ A population pyramid shows age and sex structure; stacked bars compare age group
 
 **Caption:** *Economy: GDP level, YoY growth, per-capita, and indexed comparisons.*  
 
-**What this page shows (2–3 sentences)**  
+**What this page shows**  
 GDP level and growth trends are shown alongside per-capita figures and a relative GDP index (base 2015 = 100) that compares Sudan’s growth trajectory to the two highest and two lowest performers each year. Use this page to see macro trends and how Sudan’s recovery or decline compares to peers.
 
 **CAGR explanation**  
@@ -132,7 +132,7 @@ GDP level and growth trends are shown alongside per-capita figures and a relativ
 
 **Caption:** *Detail: bookmark-driven parameter page and raw tables for audit.*  
 
-**What this page shows (2–3 sentences)**  
+**What this page shows**  
 The Detail page is a parameterized view built with bookmarks. The default screenshot shows the **Total Population** parameter. Other parameters (Total Events, Total Fatalities, Total IDPs, Total Returnees) switch the page to show related slicers and filters. Only the default screenshot is included in this repo to keep the README concise.
 
 **How the bookmarks work (simple list)**  
@@ -182,4 +182,4 @@ The Detail page is a parameterized view built with bookmarks. The default screen
 ## **Author and contact**
 **Author:** Ahmed Elhassan    
  **Contact:** ahmed_elhassan84@hotmail.com      
-**Last updated:** 02-October-2026
+**Last updated:** 02-June-2026
