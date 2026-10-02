@@ -28,10 +28,8 @@ This repository is a **portfolio demonstration**. The visuals show methods, data
 ## **Page 1 — Home (overview)**
 
 ![Home page](/sudan-dashboard-portfolio/screenshots/01_home.PNG)
+*Overview: headline KPIs and a switchable trend for national framing.*  
 
-**Caption:** *Overview: headline KPIs and a switchable trend for national framing.*  
-
-**What this page shows**  
 The Home page presents the headline metrics: **People in Need**, **Internally Displaced**, **People Facing Acute Food Insecurity**, and **2025 GDP**. 
 
 A central interactive map highlights the geographic location of humanitarian hotspots across the region to illustrate current needs and reach. Use this page to get a quick, high-level sense of the crisis scale and to visualize the areas requiring the most critical assistance.
@@ -46,10 +44,8 @@ A central interactive map highlights the geographic location of humanitarian hot
 ## **Page 2 — Conflict**
 
 ![Conflict page](/sudan-dashboard-portfolio/screenshots/02_conflict.PNG)
+*Conflict: state-level intensity and top states by event counts.*  
 
-**Caption:** *Conflict: state-level intensity and top states by event counts.*  
-
-**What this page shows**  
 A map highlights conflict intensity by state and a ranked bar chart lists the top states by event counts. KPI cards summarize event totals and fatalities for the selected period. This page helps identify geographic hotspots and the scale of violence driving humanitarian needs.
 
 **Key visuals explained**  
@@ -62,10 +58,8 @@ A map highlights conflict intensity by state and a ranked bar chart lists the to
 ## **Page 3 — Displacement**
 
 ![Displacement page](/sudan-dashboard-portfolio/screenshots/03_displacement.PNG)
+*Displacement: IDP stocks by state and origin→destination flows.*  
 
-**Caption:** *Displacement: IDP stocks by state and origin→destination flows.*  
-
-**What this page shows**  
 State-level IDP stocks are shown on a map and a Sankey flow diagram shows origin→destination movement between states. Cards summarize total IDPs, returnees, and vulnerable subgroups (children, women). Use this page to understand who is displaced, where they are, and the main movement corridors.
 
 **Key visuals explained**  
@@ -78,10 +72,8 @@ State-level IDP stocks are shown on a map and a Sankey flow diagram shows origin
 ## **Page 4 — Food Security**
 
 ![Food Security page](/sudan-dashboard-portfolio/screenshots/04_food_security.PNG)
+*Food Security: market price trends and annual sorghum price volatility.*  
 
-**Caption:** *Food Security: market price trends and annual sorghum price volatility.*  
-
-**What this page shows**  
 Small multiples show market price trends across key markets and a larger chart shows year‑on‑year volatility for sorghum (a staple). Cards highlight the number of people in emergency and catastrophe and the percent above 5‑year average for key staples. This page links market stress to conflict and displacement patterns.
 
 **Key visuals explained**  
@@ -94,10 +86,8 @@ Small multiples show market price trends across key markets and a larger chart s
 ## **Page 5 — Demographics**
 
 ![Demographics page](/sudan-dashboard-portfolio/screenshots/05_demographics.PNG)
+*Demographics: population pyramid and age-group distribution by state.*  
 
-**Caption:** *Demographics: population pyramid and age-group distribution by state.*  
-
-**What this page shows**  
 A population pyramid shows age and sex structure; stacked bars compare age groups across states. Cards show total population, growth rate, median age, and dependency ratio. This page highlights vulnerability shaped by a young population and regional differences in child share.
 
 **Key visuals explained**  
@@ -110,17 +100,15 @@ A population pyramid shows age and sex structure; stacked bars compare age group
 ## **Page 6 — Economy**
 
 ![Economy page](/sudan-dashboard-portfolio/screenshots/06_economy.PNG)
+*Economy: GDP level, YoY growth, per-capita, and indexed comparisons.*  
 
-**Caption:** *Economy: GDP level, YoY growth, per-capita, and indexed comparisons.*  
-
-**What this page shows**  
-GDP level and growth trends are shown alongside per-capita figures and a relative GDP index (base 2015 = 100) that compares Sudan’s growth trajectory to the two highest and two lowest performers each year. Use this page to see macro trends and how Sudan’s recovery or decline compares to peers.
+GDP level and growth trends are shown alongside per-capita figures and a relative GDP index (base 2015 = 100) that compares Sudan’s growth trajectory to the two highest and two lowest economic performers each year. Use this page to see macro trends and how Sudan’s recovery or decline compares to peers.
 
 **CAGR explanation**  
 **Compounded Annual Growth Rate (CAGR)** measures the average yearly growth rate of Sudan’s GDP over a period, smoothing out ups and downs. Here it shows the typical annual change since South Sudan separated (2011/2012). A negative CAGR means the economy has, on average, shrunk each year since that date; a positive CAGR means it has, on average, grown.
 
 **Relative GDP Index**  
-**Purpose:** Compare Sudan’s GDP path against the world's two largest and two smallest economies (by absolute GDP value) each year, indexed to a 2015 = 100 base to track and normalize their relative growth rates.
+**Purpose:** Compare Sudan’s GDP path against the top two highest and lowest economic performers each year, indexed to a 2015 = 100 base to track and normalize their relative growth rates.
 
 **How to read it:** an index value above 100 means GDP has grown since 2015; below 100 means it has fallen. This is a **relative** measure of change, not absolute size. A country with a small economy can show a large index increase (big percent growth) while still having a much smaller total GDP in dollars. Use the index to compare growth **trajectories**; use raw GDP values to compare absolute economic size.
 
@@ -129,13 +117,11 @@ GDP level and growth trends are shown alongside per-capita figures and a relativ
 ## **Page 7 — Detail (bookmark-driven parameters)**
 
 ![Detail page](/sudan-dashboard-portfolio/screenshots/07_detail.PNG)
+*Detail: bookmark-driven parameter page and raw tables for audit.*  
 
-**Caption:** *Detail: bookmark-driven parameter page and raw tables for audit.*  
-
-**What this page shows**  
 The Detail page is a parameterized view built with bookmarks. The default screenshot shows the **Total Population** parameter. Other parameters (Total Events, Total Fatalities, Total IDPs, Total Returnees) switch the page to show related slicers and filters. Only the default screenshot is included in this repo to keep the README concise.
 
-**How the bookmarks work (simple list)**  
+**How the bookmarks work**  
 - **Default (Total Population):** shows population-related filters (region, gender, age band) and the map view.  
 - **Total Events:** switches to event-related slicers and the map view.  
 - **Total Fatalities:** shows fatality metrics and the map view.  
