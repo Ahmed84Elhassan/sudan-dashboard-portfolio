@@ -172,10 +172,11 @@ The Detail page is a parameterized view built with bookmarks. The default screen
 
 ---
 
-## **Files included**
-- `README.md` — this file.    
-- `demo-video.mp4` — short walkthrough recorded with OBS.  
-- `screenshots/` — 7 images named in this README.   
+## **Files included**  
+* `README.md` — this file.  
+* `demo-video.mp4` — short walkthrough recorded with OBS.  
+* `screenshots/` — 7 images named in this README.  
+
 ---
 
 ## **Author and contact**
