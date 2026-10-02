@@ -1,22 +1,25 @@
 # **Sudan Humanitarian Analytics Dashboard**
 
-An interactive Power BI dashboard linking conflict events, displacement, market prices, demographics, and GDP to highlight where violence, displacement, and market stress overlap across Sudan.
+An interactive Power BI dashboard linking conflict events, displacement, market prices, demographics, and GDP to highlight where violence, displacement, and market stress overlap across Sudan. Explore the demo walkthrough, visual page layouts, and technical documentation below:
 
-<video src="demo-video.mp4" autoplay loop muted playsinline width="100%"></video>
+---
+
+<video src="https://github.com" autoplay loop muted playsinline width="100%"></video>
 
 *A 45-second interactive walkthrough showing dynamic navigation, slicers, bookmarks, and cross-filtering analytics.*
 
 ---
 
-## **Quick Project Note**  
-> ⚠️ **Portfolio Demonstration Only:** This repository showcases data engineering, dashboard design, and interactive storytelling methods. It is not an official reporting source. Data coverage varies by dataset and year; see the *Data Notes* section below for details.
+## **Quick project note (read first)**  
+This repository is a **portfolio demonstration**. The visuals show methods, data engineering, and storytelling — not an official source. Data coverage varies by dataset and year; see the *Data notes* section below for details.
 
 ---
 
-## **How to Navigate This Portfolio**  
-* 📊 **Visual Page Layouts:** Scroll below to see a detailed page-by-page breakdown with static screenshots and analytical insights.
-* 🛠️ **Technical Summary:** Comprehensive view of tools, data models, and specialized Power BI skills used.
-* 📖 **Data Documentation:** Deep dive into limitations, data sources, and engineering transformations.
+## **How this README is organized**  
+1. Visuals (one screenshot per page) with short, clear explanations.  
+2. A short technical summary and skills list.  
+3. Data notes and limitations.  
+4. How to view the demo and files included.  
 
 ---
 
