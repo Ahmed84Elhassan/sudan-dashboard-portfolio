@@ -5,7 +5,8 @@ An interactive Power BI dashboard linking conflict events, displacement, market 
 ---
 
 ## **Demo Walkthrough**
-![Walkthrough Video](https://github.com)
+
+[![Watch the Walkthrough Video](/sudan-dashboard-portfolio/screenshots/01_home.PNG)](https://github.com)
 
 *A 45-second interactive walkthrough showing dynamic navigation, slicers, bookmarks, and cross-filtering analytics.*
 
